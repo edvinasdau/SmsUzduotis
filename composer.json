@@ -1,0 +1,13 @@
+{
+	"autoload": {
+		"psr-4": {
+			"Sms\\": "app/Sms"
+		},
+		"classmap": [
+			"app/Sms"
+		]
+	},
+	"require": {
+		"phpunit/phpunit": "^7.4"
+	}
+}
